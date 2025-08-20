@@ -1,0 +1,10 @@
+Question 1: Given q1.xml file is containing blast output of psi-blast. Define a function that reads
+the file and returns a data frame containing following columns: protein accession id, protein
+name/description, alignment length, start and end of query sequence and hit sequence, and
+identity. Save the data frame in .csv format.
+
+Question 2: Given lab2_breast_cancer.xslx file has age, tumour size data of breast cancer
+patients. But there are missing values in tumour size data column. If we try to use this data to train any machine learning model; it will through error because of these missing values.Use any imputation method you like. Explain what imputation is and about the method you have
+used in 3 lines.
+
+Question 3:plot a histogram for tumour size, label the figure. Explain the difference between a bar plot and a histogram (give x and y axis names in both the cases).
